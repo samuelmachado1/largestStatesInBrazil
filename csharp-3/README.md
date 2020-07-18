@@ -22,15 +22,3 @@ Dependencies:
 .NET Core 2.0+
 Visual Studio ou Visual Studio Code
 
-### The ten largest Brazilian states in territorial extension.
-
-Using C # and unit tests this application determines the ten largest Brazilian states in territorial extension.
-
-Dependencies:
-
-.NET Core 2.0+
-Visual Studio or Visual Studio Code
-
-
-
-* Challenge developed by Samuel Machado in the Codenation C # acceleration program sponsored by Wiz Soluções.
